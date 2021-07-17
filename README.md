@@ -1,6 +1,7 @@
 
 
-<img align='top' src="https://mlstcnt83t1h.i.optimole.com/LRrPGKs.oVmM~3e193/w:auto/h:auto/q:auto/https://amitnikhade.com/wp-content/uploads/elementor/thumbs/amitnikhadenew-p9isden1l2z3re3vljbj9uxak03lgx6yefvdqgl6ds.png" width="210">
+<img align='top' src="https://github.com/AmitNikhade/AmitNikhade/blob/main/amitnikhadenew-p9isden1l2z3re3vljbj9uxak03lgx6yefvdqgl6ds.png" width="40">amitnikhade.com
+<br>
 ### Hi there 👋This is [Amit Nikhade!](https://amitnikhade.com)
 
 
