@@ -1,6 +1,6 @@
 
 
-<img align='top' src="https://github.com/AmitNikhade/AmitNikhade/blob/main/amitnikhadenew-p9isden1l2z3re3vljbj9uxak03lgx6yefvdqgl6ds.png" width="40">amitnikhade.com
+<img align='top' src="https://github.com/AmitNikhade/AmitNikhade/blob/main/amitnikhadenew-p9isden1l2z3re3vljbj9uxak03lgx6yefvdqgl6ds.png" width="40"><br>amitnikhade.com
 <br>
 ### Hi there 👋This is [Amit Nikhade!](https://amitnikhade.com)
 
