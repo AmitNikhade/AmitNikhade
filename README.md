@@ -2,7 +2,7 @@
 
 <img align='top' src="https://github.com/AmitNikhade/AmitNikhade/blob/main/amitnikhadenew-p9isden1l2z3re3vljbj9uxak03lgx6yefvdqgl6ds.png" width="40"><br>amitnikhade.com
 <br>
-### Hi there 👋This is [Amit Nikhade!](https://amitnikhade.com)
+### Hi there 👋This is [Amit Nikhade](https://amitnikhade.com)
 
 
 - 🔭 I’m currently working on Quantum AI
@@ -21,3 +21,4 @@
 - Twitter:[@iamamitnikhade!](https://twitter.com/theamitnikhade)
 - Medium:[@amitnikhade!](https://amitnikhade.medium.com/)
 - UpWork: [AmitNikhade!](https://www.upwork.com/freelancers/~013441727e61786f11)
+- Kaggle :[AmitNikhade!](https://www.kaggle.com/theamitnikhade)
