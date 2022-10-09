@@ -4,11 +4,10 @@
 <br>
 ### Hi there 👋This is [Amit Nikhade](https://amitnikhade.com)
 
-
-- 🔭 I’m currently working on Quantum AI
-- 🌱 I’m currently learning Quantum AI
+- 🥼 I'm a Data Scientist
+- 🔭 I work on Quantum AI
+- 🌱 I Love reading AI Trends.
 - 👯 I’m looking to collaborate on Artificial Intelligence Projects
-- 🤔 I’m looking for Internship and Job in the field of Artificial Intelligence, Frelancing jobs.
 - 💬 Ask me about ML, DL, IoT, Quantum AI, Robotics, etc.
 - 📫 How to reach me: You can visit My official website amitnikhade.com and you'll get info related to the contact.
 - 🖋️ My medium Blogs: [@amitnikhade](https://amitnikhade.medium.com/)
